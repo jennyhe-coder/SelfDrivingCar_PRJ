@@ -7,8 +7,8 @@ Using images captured by the car’s front-facing camera, the model predicts the
 
 A simulation environment provided by Udacity/NVIDIA is used for:
 
-Collecting training data
+- Collecting training data
 
-Testing the trained model in real time
+- Testing the trained model in real time
 
 The complete workflow includes data collection, preprocessing, augmentation, CNN model training, and simulation testing.
