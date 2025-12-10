@@ -1,6 +1,6 @@
-Self-Driving Car Simulation Using CNN
+**Self-Driving Car Simulation Using CNN**
 
-Project Overview
+**Project Overview**
 
 This project develops a Convolutional Neural Network (CNN) to control the steering of a simulated self-driving car.
 Using images captured by the car’s front-facing camera, the model predicts the steering angle needed to keep the car on the road.
